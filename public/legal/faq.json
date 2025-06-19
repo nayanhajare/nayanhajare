@@ -1,0 +1,10 @@
+[
+  {
+    "question": "How do credits work?",
+    "answer": "Credits are awarded based on your actions..."
+  },
+  {
+    "question": "Can I opt out?",
+    "answer": "Yes, use the /opt-out route with your token."
+  }
+]
