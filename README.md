@@ -1,83 +1,114 @@
 <h1 align="center">Hi 👋, I'm Nayan Hajare</h1>
-<h3 align="center">🚀 A Passionate Full Stack Developer from India</h3>
+<h3 align="center">🚀 Passionate Full Stack Developer | JavaScript Wizard | System Design Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=450&lines=JavaScript+%7C+React+%7C+Node.js+%7C+MongoDB;Clean+Code+%7C+Creative+UI+%7C+Fast+Delivery" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer+%7C+MERN+Stack+%7C+Clean+Code+Advocate;React+%7C+Node+%7C+MongoDB+%7C+Express+%7C+Tailwind+%7C+Firebase;Crafting+User+Centric+UI+%7C+System+Design+%7C+APIs+%7C+Deployment" alt="Typing SVG" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nayanhajare&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=nayanhajare&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile views" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nayanhajare&theme=gruvbox&row=1&column=6" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=nayanhajare&theme=dracula&no-frame=true&title=Commit,Issues,Repositories,PullRequest,Stars,Followers" alt="trophies"/>
   </a>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
-- 🌱 I’m currently learning **Full Stack Web Development (MERN)**
-- 👯 I’m looking to collaborate on **Open Source MERN Projects**
-- 💬 Ask me about **JavaScript, React, MongoDB, Express, CSS, HTML, Next.js**
-- 📫 Reach me at **nayan.hajare28@gmail.com**
-- ⚡ Fun fact: *I write clean code while listening to lo-fi beats 🎧*
+- 🔭 Currently building **real-world full-stack projects** with performance-first approach.
+- 🌱 Currently diving deeper into **System Design, Deployment & Scalable APIs**.
+- 👯 Actively collaborating on **open-source MERN stack projects**.
+- 💡 Loves solving problems with **clean architecture and meaningful UI/UX**.
+- 💬 Ask me about **React, Node.js, MongoDB, Firebase, Git, REST APIs**.
+- 📫 Reach out to me at **nayan.hajare28@gmail.com**
+- 🎯 Motto: *"Code with clarity, scale with design, and deploy with confidence."*
 
 ---
 
-### 🌐 Connect with Me
+## 🌐 Connect with Me
 
 <p align="left">
   <a href="https://linkedin.com/in/nayan-hajare" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:nayan.hajare28@gmail.com">
-    <img src="https://img.icons8.com/fluency/30/000000/gmail.png" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/nayanhajare" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+## 💼 Tech Stack & Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="Babel" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" alt="Express"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" alt="Firebase"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="TailwindCSS"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" alt="Postman"/>
+  <img src="https://www.chartjs.org/media/logo-title.svg" width="40" alt="Chart.js"/>
+  <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" width="40" alt="Babel"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" alt="Next.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" alt="GitHub"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/vscode.svg" width="40" alt="VSCode"/>
 </p>
 
 ---
 
-### 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nayanhajare&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Langs" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=nayanhajare&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayanhajare&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nayanhajare&show_icons=true&theme=react&border_radius=10&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nayanhajare&theme=react&hide_border=true&border_radius=10" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanhajare&layout=compact&theme=react&hide_border=true" width="48%" />
 </p>
 
 ---
 
-### ✨ Motto
+## 💡 Highlight Projects
+
+- 🔷 **Investment Portfolio Tracker**: Visualize and manage your asset allocation, track returns using Chart.js, and backend via Node + MongoDB.
+- 🧑‍🤝‍🧑 **TeamSpace**: A collaborative workspace to manage tasks and discussions. Features: Auth, CRUD, Realtime updates, Firebase storage.
+
+---
+
+## ✨ Soft Skills & Capabilities
+
+- 💬 Communication & Collaboration
+- 🎨 UI/UX Thinking
+- ⚙️ System Design Basics
+- ✅ Project Planning and Agile
+- 📈 Attention to Performance
+
+---
+
+## 🧠 Learning Focus
+
+- 📚 System Design & Architecture Patterns
+- 🚀 Building Scalable SaaS Products
+- 🧩 Contributing to Open Source
+
+---
+
+## 📌 Quote I Live By
 
 <p align="center">
-  "Build real-world apps with purpose, passion, and precision." 💻🔥
+  <i>“Great software is not built in haste; it’s designed with empathy, structured with clarity, and deployed with pride.”</i>
 </p>
