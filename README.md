@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nayan Hajare</h1>
-<h3 align="center">🚀 Passionate Full Stack Developer | JavaScript Wizard | System Design Enthusiast</h3>
+<h3 align="center">🚀 Passionate Full Stack Developer | JavaScript Wizard </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer+%7C+MERN+Stack+%7C+Clean+Code+Advocate;React+%7C+Node+%7C+MongoDB+%7C+Express+%7C+Tailwind+%7C+Firebase;Crafting+User+Centric+UI+%7C+System+Design+%7C+APIs+%7C+Deployment" alt="Typing SVG" />
