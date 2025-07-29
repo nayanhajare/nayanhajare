@@ -29,9 +29,9 @@
 
 | Project Name                | Description                                             | Stack Used                        | Demo Link |
 |----------------------------|---------------------------------------------------------|-----------------------------------|-----------|
-| **Loan Application System**| A complete full-stack platform to apply & track loans. | React, Node.js, MongoDB, Express  | [View](#) |
-| **Team Space**             | Real-time collaboration platform for teams.             | React, Firebase, TailwindCSS      | [View](#) |
-| **Investment Portfolio Tracker** | Track assets & visualize returns.                 | React, Chart.js, MongoDB          | [View](#) |
+| **Loan Application System**| A complete full-stack platform to apply & track loans. | React, Node.js, MongoDB, Express  | [View](#https://github.com/nayanhajare/Loan-App-frontend) |
+| **Team Space**             | Real-time collaboration platform for teams.             | React, Firebase, TailwindCSS      | [View](#https://teamspace12.netlify.app/) |
+| **Investment Portfolio Tracker** | Track assets & visualize returns.                 |  Javascript , Firebase, Html5       | [View](#https://nayan-investmentportfoliotracker.netlify.app/login.html) |
 
 ---
 
